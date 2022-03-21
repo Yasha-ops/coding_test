@@ -20,7 +20,7 @@ du fichier (back ou front).
 
 ### JSON de départ
 #### Dash
-Afin de facilité l'utilisation de cette dernière il serait peut être judicieux
+Afin de faciliter l'utilisation de cette dernière il serait peut être judicieux
 de remplacer les '-' par des '_' puisque le compilo de python n'aime pas
 beaucoup les dash en tant que methode de class
 
